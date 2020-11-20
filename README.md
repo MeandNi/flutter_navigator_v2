@@ -11,8 +11,3 @@
 [Flutter Navigator2.0 完全指南与原理解析](https://mp.weixin.qq.com/s/hDLxWJuUylw8UaOidUa3Hg)
 
 新书开源：https://github.com/MeandNi/flutter_source_code
-
-关注我的公众号，阅读最新前沿技术：
-
-<img src="https://cdn.jsdelivr.net/gh/meandni/blogimg@main/img/2020-11-08-image-20201108180239281.png" width="300"/>
-
